@@ -6,6 +6,6 @@ package com;
  */
 public class TestThis {
     public static void main(String[] args) {
-        System.out.println("qweqwegit");
+        System.out.println("123");
     }
 }
