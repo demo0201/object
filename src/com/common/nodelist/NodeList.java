@@ -43,7 +43,9 @@ public class NodeList {
         if (node.next != null){
             return findThis(node.next);
         }
-        else return node;
+        else {
+            return node;
+        }
     }
 
     public void show(){
